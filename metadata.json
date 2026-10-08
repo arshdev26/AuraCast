@@ -1,0 +1,6 @@
+{
+  "name": "AuraCast - Live Real-Time Weather & Atmospheric Suite",
+  "description": "Real-time weather application featuring dynamic animated backgrounds for cloudy, rainy, and sunny skies, precise meteorological telemetry, hourly & 7-day forecasts, and AI atmospheric insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
